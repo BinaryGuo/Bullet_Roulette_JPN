@@ -1,5 +1,0 @@
-print("Bullet Roulette(1.1.1)")
-print("MIT License")
-print("在 Python 3.10.12，Pygame 2.5.2 上运行以获得最好的游戏体验")
-print("开发者:GQX（PyPI 账号）")
-print("在bulletroulette.run的开发者模式（dev函数）下运行\"readme()\"查看游戏玩法、鸣谢和其他说明，运行\"license()\"查看更详细的协议")

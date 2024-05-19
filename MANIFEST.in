@@ -1,4 +1,0 @@
-recursive-include bulletroulette/assets *.png
-recursive-include bulletroulette/assets *.ogg
-recursive-include bulletroulette/assets *.wav
-recursive-include bulletroulette/assets *.ttf
